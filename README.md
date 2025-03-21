@@ -24,3 +24,6 @@ This project demonstrates a **Bootstrap carousel** that automatically cycles thr
    ```
 2. Open `index.html` in a browser.
 3. Watch the images automatically cycle every 3 seconds!
+
+## Live Demo
+https://ketulpatel01.github.io/Make-Slider/
